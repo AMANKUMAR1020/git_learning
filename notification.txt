@@ -1,2 +1,6 @@
 i have added to notification service
+<<<<<<< HEAD
 i have chnages branch name from notification to notify. This create a merge conflit from main.
+=======
+i have chnages branch name from notification to notify. Now to notify branch.
+>>>>>>> notify

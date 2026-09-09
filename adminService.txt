@@ -1,2 +1,0 @@
-add and remove person
-chnage the roles
